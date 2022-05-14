@@ -1,0 +1,11 @@
+{
+  "image_id": "boy",
+  "figure": {
+    "gender": 1,
+    "age": 1,
+    "height": 2,
+    "shape": 2,
+    "skinColor": 1,
+    "hair": 2
+  }
+}

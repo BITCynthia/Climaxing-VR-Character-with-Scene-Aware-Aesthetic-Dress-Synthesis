@@ -1,0 +1,72 @@
+{
+  "image_id": "applauding_007",
+  "figure": {
+    "gender": 1,
+    "age": 2,
+    "height": 2,
+    "shape": 2,
+    "skinColor": 1,
+    "hair": 2
+  },
+  "scene": {
+    "season": 2,
+    "sceneClass": "10",
+    "event": 2,
+    "color": [
+      [
+        129.83115227672187,
+        157.06092879069465,
+        76.31908041122267
+      ],
+      [
+        172.7494450768319,
+        143.52085941946416,
+        138.01400113829953
+      ],
+      [
+        112.10622246537726,
+        86.60376054593505,
+        82.81930087246693
+      ],
+      [
+        213.24573249504851,
+        216.56896046851392,
+        227.51416759971028
+      ],
+      [
+        19.60927739492014,
+        21.905714746294834,
+        38.037702011047514
+      ]
+    ]
+  },
+  "clothes": [
+    {
+      "clothType": 2,
+      "UpperType": 2,
+      "UpperLength": 3,
+      "UpperModel": 3,
+      "UpperCollar": 3,
+      "UpperSleeveLength": 2,
+      "UpperShouders": 1,
+      "UpperSleeve": 0,
+      "UpperCuff": 3,
+      "UpperOpening": 1,
+      "UpperMaterial": 5,
+      "UpperPattern": 3,
+      "TrousersType": 4,
+      "TrousersWaist": 2,
+      "TrousersLength": 2,
+      "TrousersModel": 2,
+      "TrousersMaterial": 5,
+      "TrousersPattern": 3,
+      "SkirtType": 0,
+      "SkirtWaist": 0,
+      "SkirtLength": 0,
+      "SkirtFold": 0,
+      "SkirtMaterial": 0,
+      "SkirtPattern": 0
+    }
+  ],
+  "rate": 1
+}

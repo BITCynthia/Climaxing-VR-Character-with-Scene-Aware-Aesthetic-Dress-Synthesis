@@ -1,0 +1,98 @@
+{
+  "image_id": "applauding_001",
+  "figure": {
+    "gender": 1,
+    "age": 2,
+    "height": 2,
+    "shape": 2,
+    "skinColor": 1,
+    "hair": 1
+  },
+  "scene": {
+    "season": 2,
+    "sceneClass": "8",
+    "event": 2,
+    "color": [
+      [
+        111.17595794156266,
+        141.98252957233913,
+        44.1546254170455
+      ],
+      [
+        130.57741550195954,
+        154.20189426481858,
+        68.70969972549894
+      ],
+      [
+        38.32426734134627,
+        18.263440860212455,
+        10.479970482816505
+      ],
+      [
+        120.69539620864228,
+        45.999999999999176,
+        30.890262569174368
+      ],
+      [
+        190.76783054774072,
+        177.28677809035312,
+        165.32947211649852
+      ]
+    ]
+  },
+  "clothes": [
+    {
+      "clothType": 1,
+      "UpperType": 2,
+      "UpperLength": 3,
+      "UpperModel": 3,
+      "UpperCollar": 5,
+      "UpperSleeveLength": 2,
+      "UpperShouders": 1,
+      "UpperSleeve": 0,
+      "UpperCuff": 3,
+      "UpperOpening": 1,
+      "UpperMaterial": 5,
+      "UpperPattern": 3,
+      "TrousersType": 0,
+      "TrousersWaist": 0,
+      "TrousersLength": 0,
+      "TrousersModel": 0,
+      "TrousersMaterial": 0,
+      "TrousersPattern": 0,
+      "SkirtType": 0,
+      "SkirtWaist": 0,
+      "SkirtLength": 0,
+      "SkirtFold": 0,
+      "SkirtMaterial": 0,
+      "SkirtPattern": 0
+    },
+    {
+      "clothType": 2,
+      "UpperType": 0,
+      "UpperLength": 0,
+      "UpperModel": 0,
+      "UpperCollar": 0,
+      "UpperSleeveLength": 0,
+      "UpperShouders": 0,
+      "UpperSleeve": 0,
+      "UpperCuff": 0,
+      "UpperOpening": 0,
+      "UpperMaterial": 0,
+      "UpperPattern": 0,
+      "TrousersType": 4,
+      "TrousersWaist": 2,
+      "TrousersLength": 4,
+      "TrousersModel": 2,
+      "TrousersMaterial": 5,
+      "TrousersPattern": 1,
+      "SkirtType": 0,
+      "SkirtWaist": 0,
+      "SkirtLength": 0,
+      "SkirtFold": 0,
+      "SkirtMaterial": 0,
+      "SkirtPattern": 0
+    }
+  ],
+  "rate": 1
+}

@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce5ce974-0886-4dea-b569-a66fc632a8b3" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="clothes.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/clothes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1296">
+              <caret line="208" column="59" lean-forward="false" selection-start-line="208" selection-start-column="59" selection-end-line="208" selection-end-column="59" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>500</find>
+      <find>count</find>
+      <find>original</find>
+      <find>save_img</find>
+      <find>select_file</find>
+      <find>img2</find>
+      <find>filename</find>
+      <find>filePath</find>
+      <find>save</find>
+      <find>fileProcess</find>
+      <find>dir</find>
+      <find>fileList</find>
+      <find>global</find>
+      <find>json</find>
+      <find>saveLabel</find>
+      <find>filedialog</find>
+      <find>lower</find>
+      <find>skirt</find>
+      <find>hem</find>
+      <find>outputDir</find>
+      <find>suit</find>
+      <find>upper</find>
+      <find>nameX</find>
+      <find>GV</find>
+      <find>colthWrite</find>
+      <find>num</find>
+      <find>CLOTH</find>
+      <find>7_</find>
+      <find>——————</find>
+      <find>confirm</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/figures.py" />
+        <option value="$PROJECT_DIR$/output/WZ/clothes/holding_an_umbrella_402_x.json" />
+        <option value="$PROJECT_DIR$/output/WZ/clothes/holding_an_umbrella_403_x.json" />
+        <option value="$PROJECT_DIR$/output/WZ/clothes/holding_an_umbrella_408_x.json" />
+        <option value="$PROJECT_DIR$/output/WZ/clothes/holding_an_umbrella_401_x.json" />
+        <option value="$PROJECT_DIR$/output/ZL/clothes/female_adult_001_x.json" />
+        <option value="$PROJECT_DIR$/output/ZL/clothes/female_adult_002_x.json" />
+        <option value="$PROJECT_DIR$/output/ZL/clothes/female_adult_003_x.json" />
+        <option value="$PROJECT_DIR$/output/ZL/clothes/female_adult_004_x.json" />
+        <option value="$PROJECT_DIR$/output/ZL/clothes/female_adult_005_x.json" />
+        <option value="$PROJECT_DIR$/output/ZL/clothes/female_adult_006_x.json" />
+        <option value="$PROJECT_DIR$/output/ZL/clothes/female_adult_007_x.json" />
+        <option value="$PROJECT_DIR$/output/WZ/clothes/holding_an_umbrella_413_x.json" />
+        <option value="$PROJECT_DIR$/output/CH/holding_an_umbrella_401_x.json" />
+        <option value="$PROJECT_DIR$/output/CH/holding_an_umbrella_402_x.json" />
+        <option value="$PROJECT_DIR$/output/CH/holding_an_umbrella_403_x.json" />
+        <option value="$PROJECT_DIR$/output/CH_16_output/output/figure/applauding_004_figure.json" />
+        <option value="$PROJECT_DIR$/output/CH_16_output/output/figure/applauding_008_figure.json" />
+        <option value="$PROJECT_DIR$/output/CH_16_output/output/figure/applauding_010_figure.json" />
+        <option value="$PROJECT_DIR$/output/CH_16_output/output/figure/blowing_bubbles_012_figure.json" />
+        <option value="$PROJECT_DIR$/output/CH_16_output/output/clothes/applauding_001_x._x.json" />
+        <option value="$PROJECT_DIR$/output/CH_16_output/output/clothes/applauding_002_x.json" />
+        <option value="$PROJECT_DIR$/output/CH_16_output/output/clothes/applauding_003_x.json" />
+        <option value="$PROJECT_DIR$/output/CH_16_output/output/clothes/applauding_004_x.json" />
+        <option value="$PROJECT_DIR$/output/CH_16_output/output/clothes/applauding_005_x.json" />
+        <option value="$PROJECT_DIR$/output/CH_16_output/output/clothes/applauding_006_x.json" />
+        <option value="$PROJECT_DIR$/output/CH_16_output/output/clothes/applauding_007_x.json" />
+        <option value="$PROJECT_DIR$/output/CH_16_output/output/clothes/applauding_008_x.json" />
+        <option value="$PROJECT_DIR$/output/CH_16_output/output/clothes/applauding_009_x.json" />
+        <option value="$PROJECT_DIR$/output/CH_16_output/output/clothes/applauding_010_x.json" />
+        <option value="$PROJECT_DIR$/output/CH_16_output/output/clothes/blowing_bubbles_012_x.json" />
+        <option value="$PROJECT_DIR$/output/CH_16_output/output/clothes/blowing_bubbles_013_x.json" />
+        <option value="$PROJECT_DIR$/output/CH_16_output/output/clothes/blowing_bubbles_014_x.json" />
+        <option value="$PROJECT_DIR$/output/CH_16_output/output/clothes/blowing_bubbles_015_x.json" />
+        <option value="$PROJECT_DIR$/output/CH_16_output/output/clothes/blowing_bubbles_016_x.json" />
+        <option value="$PROJECT_DIR$/output/ZWX/clothes/female_elder_201_x.json" />
+        <option value="$PROJECT_DIR$/output/ZWX/clothes/female_elder_206_x.json" />
+        <option value="$PROJECT_DIR$/output/ZWX/clothes/female_elder_208_x.json" />
+        <option value="$PROJECT_DIR$/output/WLH/clothes/male_child_403_x.json" />
+        <option value="$PROJECT_DIR$/output/WLH/clothes/male_child_408_x.json" />
+        <option value="$USER_HOME$/Desktop/feeding_a_horse_201_x.json" />
+        <option value="$USER_HOME$/Desktop/feeding_a_horse_202_x.json" />
+        <option value="$USER_HOME$/Desktop/feeding_a_horse_203_x.json" />
+        <option value="$PROJECT_DIR$/output/clothes/fishing_279_x._x.json" />
+        <option value="$PROJECT_DIR$/output/clothes/fishing_279_x.json" />
+        <option value="$PROJECT_DIR$/output/clothes/fishing_280_x.json" />
+        <option value="$PROJECT_DIR$/output/clothes/holding_an_umbrella_368_x._x.json" />
+        <option value="$PROJECT_DIR$/output/clothes/holding_an_umbrella_368_x.json" />
+        <option value="$PROJECT_DIR$/output/clothes/holding_an_umbrella_369_x.json" />
+        <option value="$PROJECT_DIR$/clothes.py" />
+        <option value="$PROJECT_DIR$/globalVariance.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="49" />
+    <option name="width" value="2182" />
+    <option name="height" value="1402" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="anno" type="b2602c69:ProjectViewProjectNode" />
+              <item name="anno" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../learning_optimization" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MCISLAB\03_garmentdesign\_dataset\modelForLabel\clothes\labelClothes\attribute" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MCISLAB\03_garmentdesign\_dataset\modelForLabel\clothes\labelClothes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.figures">
+    <configuration name="clothes" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Cynthia\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="labelClothes" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clothes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="event" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Cynthia\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="labelClothes" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/event.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="figures" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Cynthia\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="labelClothes" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/figures.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="season" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Cynthia\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="labelClothes" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/season.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.clothes" />
+      <item index="1" class="java.lang.String" itemvalue="Python.season" />
+      <item index="2" class="java.lang.String" itemvalue="Python.event" />
+      <item index="3" class="java.lang.String" itemvalue="Python.figures" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce5ce974-0886-4dea-b569-a66fc632a8b3" name="Default" comment="" />
+      <created>1601534337671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601534337671</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="61" width="2182" height="1390" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14440264" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maya Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2112676" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/input/CH/applauding_007.jpg" />
+    <entry file="file://$PROJECT_DIR$/output/CH_16_output/output/clothes/applauding_001_x.json" />
+    <entry file="file://$PROJECT_DIR$/input/CH/applauding_002.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/CH_16_output/output/clothes/applauding_001_x._x.json" />
+    <entry file="file://$PROJECT_DIR$/output/CH_16_output/output/clothes/applauding_002_x.json" />
+    <entry file="file://$PROJECT_DIR$/output/CH_16_output/output/clothes/applauding_003_x.json" />
+    <entry file="file://$PROJECT_DIR$/output/CH_16_output/output/clothes/applauding_004_x.json" />
+    <entry file="file://$PROJECT_DIR$/output/CH_16_output/output/clothes/applauding_005_x.json" />
+    <entry file="file://$PROJECT_DIR$/output/CH_16_output/output/clothes/applauding_006_x.json" />
+    <entry file="file://$PROJECT_DIR$/output/CH_16_output/output/clothes/applauding_007_x.json" />
+    <entry file="file://$PROJECT_DIR$/output/CH_16_output/output/clothes/applauding_008_x.json" />
+    <entry file="file://$PROJECT_DIR$/output/CH_16_output/output/clothes/applauding_009_x.json" />
+    <entry file="file://$PROJECT_DIR$/output/CH_16_output/output/clothes/applauding_010_x.json" />
+    <entry file="file://$PROJECT_DIR$/output/CH_16_output/output/clothes/blowing_bubbles_011_x.json" />
+    <entry file="file://$PROJECT_DIR$/output/CH_16_output/output/clothes/blowing_bubbles_012_x.json" />
+    <entry file="file://$PROJECT_DIR$/output/CH_16_output/output/clothes/blowing_bubbles_013_x.json" />
+    <entry file="file://$PROJECT_DIR$/output/CH_16_output/output/clothes/blowing_bubbles_014_x.json" />
+    <entry file="file://$PROJECT_DIR$/output/CH_16_output/output/clothes/blowing_bubbles_015_x.json" />
+    <entry file="file://$PROJECT_DIR$/output/CH_16_output/output/clothes/blowing_bubbles_016_x.json" />
+    <entry file="file://$PROJECT_DIR$/output/ZWX/season/applauding_001_season.json" />
+    <entry file="file://$PROJECT_DIR$/output/ZWX/season/female_elder_216_season.json" />
+    <entry file="file://$PROJECT_DIR$/output/ZWX/season/female_elder_223_season.json" />
+    <entry file="file://$PROJECT_DIR$/output/ZWX/season/female_elder_220_season.json" />
+    <entry file="file://$PROJECT_DIR$/output/ZWX/event/female_elder_204_event.json" />
+    <entry file="file://$PROJECT_DIR$/output/ZWX/event/female_elder_210_event.json" />
+    <entry file="file://$PROJECT_DIR$/output/ZWX/clothes/female_elder_201_x.json" />
+    <entry file="file://$PROJECT_DIR$/output/ZWX/figure/female_elder_217_figure.json" />
+    <entry file="file://$PROJECT_DIR$/output/ZWX/figure/female_elder_206_figure.json" />
+    <entry file="file://$PROJECT_DIR$/output/ZWX/figure/female_elder_203_figure.json" />
+    <entry file="file://$PROJECT_DIR$/output/ZWX/clothes/female_elder_206_x.json" />
+    <entry file="file://$PROJECT_DIR$/output/ZWX/clothes/female_elder_208_x.json" />
+    <entry file="file://$PROJECT_DIR$/output/WLH/clothes/male_child_403_x.json" />
+    <entry file="file://$PROJECT_DIR$/output/WLH/clothes/male_child_408_x.json" />
+    <entry file="file://$USER_HOME$/Desktop/feeding_a_horse_203_x.json" />
+    <entry file="file://$USER_HOME$/Desktop/feeding_a_horse_202_x.json" />
+    <entry file="file://$USER_HOME$/Desktop/feeding_a_horse_201_x.json" />
+    <entry file="file://$PROJECT_DIR$/output/clothes/fishing_280_x.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-534">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/clothes/fishing_279_x.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="28" column="6" lean-forward="false" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/clothes/fishing_279_x._x.json" />
+    <entry file="file://$PROJECT_DIR$/output/clothes/holding_an_umbrella_369_x.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/clothes/holding_an_umbrella_368_x.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/clothes/holding_an_umbrella_368_x.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/labelclothes/cloth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="965">
+          <caret line="63" column="10" lean-forward="false" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/labelFigure/figure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/labelFigure/figureAttr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/labelScene/eventAttr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/labelScene/event.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/globalVariance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/figures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="164" column="76" lean-forward="false" selection-start-line="164" selection-start-column="76" selection-end-line="164" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="108" column="67" lean-forward="false" selection-start-line="108" selection-start-column="62" selection-end-line="108" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clothes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1296">
+          <caret line="208" column="59" lean-forward="false" selection-start-line="208" selection-start-column="59" selection-end-line="208" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
